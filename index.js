@@ -15,6 +15,7 @@ let firstAnswer  = window.prompt('Do you head left or right?')
         else if(answer === Continue){
             let answer = window.promopt('You come across a chamber that reaches upward to a shining light above. There is a long, winding staircase, and a much quicker, but rickety-looking ladder that leads up toward the light. Which do you take?')
         }
+            if
     
         
         
